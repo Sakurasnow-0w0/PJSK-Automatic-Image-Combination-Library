@@ -53,10 +53,10 @@ index.json                   每張圖的對應資料：來源卡片編號、產
   及其授權者所有。本庫與上述公司**無任何關聯**，亦非官方產物。
 - 本庫為**非商業性**的個人用途快取，不販售、不提供下載服務、不用於任何營利行為。
 - 本庫**不授予**任何人使用、重製、散布或改作其中內容的權利。
-- 若著作權利人認為本庫有侵權疑慮，請以 issue 或任何方式告知，**將立即移除**。
+- 若著作權利人認為本庫有侵權疑慮，請透過任何可行的方式告知，**將立即移除**。
 
 All game assets are © SEGA / Craft Egg / Colorful Palette Inc.
 This repository is an unofficial, non-commercial personal cache and is
 **not affiliated with or endorsed by** the rights holders.
 No rights are granted to any third party. Upon request from the rights
-holders, all content will be removed immediately.
+holders, all content will be removed immediately. Contact through any available means.
