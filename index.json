@@ -1,5 +1,5 @@
 {
- "updated": 1788422620364,
+ "updated": 1788423124337,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -299,8 +299,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420525766
+   "style": "pool/5",
+   "at": 1788423082986
   },
   "800": {
    "path": "gacha/800/pool.jpg",
@@ -310,8 +310,8 @@
    "fresh": 2,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420526414
+   "style": "pool/5",
+   "at": 1788423083637
   },
   "801": {
    "path": "gacha/801/pool.jpg",
@@ -321,8 +321,8 @@
    "fresh": 0,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420528861
+   "style": "pool/5",
+   "at": 1788423086053
   },
   "803": {
    "path": "gacha/803/pool.jpg",
@@ -332,8 +332,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420531048
+   "style": "pool/5",
+   "at": 1788423088258
   },
   "808": {
    "path": "gacha/808/pool.jpg",
@@ -343,8 +343,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420533225
+   "style": "pool/5",
+   "at": 1788423090458
   },
   "809": {
    "path": "gacha/809/pool.jpg",
@@ -354,8 +354,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420535359
+   "style": "pool/5",
+   "at": 1788423092652
   },
   "811": {
    "path": "gacha/811/pool.jpg",
@@ -365,8 +365,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420537486
+   "style": "pool/5",
+   "at": 1788423094829
   },
   "812": {
    "path": "gacha/812/pool.jpg",
@@ -376,8 +376,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420539597
+   "style": "pool/5",
+   "at": 1788423096981
   },
   "813": {
    "path": "gacha/813/pool.jpg",
@@ -387,8 +387,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420541766
+   "style": "pool/5",
+   "at": 1788423099214
   },
   "814": {
    "path": "gacha/814/pool.jpg",
@@ -398,8 +398,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420543875
+   "style": "pool/5",
+   "at": 1788423101359
   },
   "815": {
    "path": "gacha/815/pool.jpg",
@@ -409,8 +409,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420545990
+   "style": "pool/5",
+   "at": 1788423103563
   },
   "816": {
    "path": "gacha/816/pool.jpg",
@@ -420,8 +420,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420548160
+   "style": "pool/5",
+   "at": 1788423105703
   },
   "817": {
    "path": "gacha/817/pool.jpg",
@@ -431,8 +431,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420550432
+   "style": "pool/5",
+   "at": 1788423107944
   },
   "825": {
    "path": "gacha/825/pool.jpg",
@@ -442,8 +442,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420553644
+   "style": "pool/5",
+   "at": 1788423111019
   },
   "832": {
    "path": "gacha/832/pool.jpg",
@@ -453,19 +453,19 @@
    "fresh": 0,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420551303
+   "style": "pool/5",
+   "at": 1788423108750
   },
   "838": {
-   "path": "gacha/838/pool.png",
+   "path": "gacha/838/pool.jpg",
    "n": 367,
    "pu": 4,
    "limited": 12,
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788422620284
+   "style": "pool/5",
+   "at": 1788423115473
   },
   "840": {
    "path": "gacha/840/pool.jpg",
@@ -475,8 +475,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420555973
+   "style": "pool/5",
+   "at": 1788423113297
   },
   "841": {
    "path": "gacha/841/pool.jpg",
@@ -486,8 +486,8 @@
    "fresh": 38,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420560287
+   "style": "pool/5",
+   "at": 1788423117631
   },
   "843": {
    "path": "gacha/843/pool.jpg",
@@ -497,8 +497,8 @@
    "fresh": 41,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420562454
+   "style": "pool/5",
+   "at": 1788423119828
   },
   "844": {
    "path": "gacha/844/pool.jpg",
@@ -508,8 +508,8 @@
    "fresh": 41,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420564680
+   "style": "pool/5",
+   "at": 1788423122058
   },
   "846": {
    "path": "gacha/846/pool.jpg",
@@ -519,16 +519,16 @@
    "fresh": 41,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420566861
+   "style": "pool/5",
+   "at": 1788423124256
   },
   "base": {
    "path": "gacha/base/pool.jpg",
    "n": 313,
    "base_n": 313,
    "base_th": 27,
-   "style": "pool/4",
-   "at": 1788420523581
+   "style": "pool/5",
+   "at": 1788423080789
   }
  }
 }
