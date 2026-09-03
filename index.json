@@ -1,285 +1,285 @@
 {
- "updated": 1788433874883,
+ "updated": 1788434931330,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432928865
+   "style": "deck_image/4",
+   "updated": 1788434896578
   },
   "772": {
    "path": "gacha/772/pu.png",
    "cards": 4,
    "total": 1,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432929286
+   "style": "deck_image/4",
+   "updated": 1788434901303
   },
   "778": {
    "path": "gacha/778/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432929624
+   "style": "deck_image/4",
+   "updated": 1788434902323
   },
   "779": {
    "path": "gacha/779/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432930104
+   "style": "deck_image/4",
+   "updated": 1788434904101
   },
   "782": {
    "path": "gacha/782/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432931540
+   "style": "deck_image/4",
+   "updated": 1788434904600
   },
   "783": {
    "path": "gacha/783/pu.png",
    "cards": 4,
    "total": 1,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432934185
+   "style": "deck_image/4",
+   "updated": 1788434905071
   },
   "787": {
    "path": "gacha/787/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432934621
+   "style": "deck_image/4",
+   "updated": 1788434907720
   },
   "788": {
    "path": "gacha/788/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432934936
+   "style": "deck_image/4",
+   "updated": 1788434908157
   },
   "789": {
    "path": "gacha/789/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432935851
+   "style": "deck_image/4",
+   "updated": 1788434909229
   },
   "790": {
    "path": "gacha/790/pu.png",
    "cards": 4,
    "total": 1,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432936224
+   "style": "deck_image/4",
+   "updated": 1788434909734
   },
   "795": {
    "path": "gacha/795/pu.png",
    "cards": 4,
    "total": 1,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432937095
+   "style": "deck_image/4",
+   "updated": 1788434911703
   },
   "799": {
    "path": "gacha/799/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432936542
+   "style": "deck_image/4",
+   "updated": 1788434910339
   },
   "800": {
    "path": "gacha/800/pu.png",
    "cards": 6,
    "total": 6,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432936819
+   "style": "deck_image/4",
+   "updated": 1788434911216
   },
   "803": {
    "path": "gacha/803/pu.png",
    "cards": 6,
    "total": 6,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432937414
+   "style": "deck_image/4",
+   "updated": 1788434912166
   },
   "804": {
    "path": "gacha/804/pu.png",
    "cards": 4,
    "total": 1,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432937894
+   "style": "deck_image/4",
+   "updated": 1788434914699
   },
   "808": {
    "path": "gacha/808/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432938219
+   "style": "deck_image/4",
+   "updated": 1788434915388
   },
   "809": {
    "path": "gacha/809/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432938554
+   "style": "deck_image/4",
+   "updated": 1788434915730
   },
   "810": {
    "path": "gacha/810/pu.png",
    "cards": 10,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432935474
+   "style": "deck_image/4",
+   "updated": 1788434908817
   },
   "811": {
    "path": "gacha/811/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432938843
+   "style": "deck_image/4",
+   "updated": 1788434916222
   },
   "812": {
    "path": "gacha/812/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432939088
+   "style": "deck_image/4",
+   "updated": 1788434916691
   },
   "813": {
    "path": "gacha/813/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432940011
+   "style": "deck_image/4",
+   "updated": 1788434917190
   },
   "814": {
    "path": "gacha/814/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432940577
+   "style": "deck_image/4",
+   "updated": 1788434917569
   },
   "815": {
    "path": "gacha/815/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432940813
+   "style": "deck_image/4",
+   "updated": 1788434918102
   },
   "816": {
    "path": "gacha/816/pu.png",
    "cards": 6,
    "total": 6,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432941091
+   "style": "deck_image/4",
+   "updated": 1788434918549
   },
   "817": {
    "path": "gacha/817/pu.png",
    "cards": 26,
    "total": 26,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432941624
+   "style": "deck_image/4",
+   "updated": 1788434919340
   },
   "825": {
    "path": "gacha/825/pu.png",
    "cards": 6,
    "total": 6,
    "kind": "pu",
-   "style": "deck_image/3",
-   "updated": 1788432942101
+   "style": "deck_image/4",
+   "updated": 1788434922331
   },
   "832": {
    "path": "gacha/832/pu.png",
-   "cards": 8,
+   "cards": 11,
    "total": 11,
    "kind": "pu",
-   "style": "deck_image/3",
-   "updated": 1788432941873
+   "style": "deck_image/4",
+   "updated": 1788434919849
   },
   "837": {
    "path": "gacha/837/pu.png",
    "cards": 5,
    "total": 4,
    "kind": "pu",
-   "style": "deck_image/3",
-   "updated": 1788432942562
+   "style": "deck_image/4",
+   "updated": 1788434922995
   },
   "838": {
    "path": "gacha/838/pu.png",
    "cards": 6,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432942823
+   "style": "deck_image/4",
+   "updated": 1788434923382
   },
   "840": {
    "path": "gacha/840/pu.png",
    "cards": 6,
    "total": 6,
    "kind": "pu",
-   "style": "deck_image/3",
-   "updated": 1788432942322
+   "style": "deck_image/4",
+   "updated": 1788434922624
   },
   "841": {
    "path": "gacha/841/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432943041
+   "style": "deck_image/4",
+   "updated": 1788434923785
   },
   "843": {
    "path": "gacha/843/pu.png",
    "cards": 4,
    "total": 4,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432943286
+   "style": "deck_image/4",
+   "updated": 1788434924210
   },
   "844": {
    "path": "gacha/844/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432943515
+   "style": "deck_image/4",
+   "updated": 1788434924518
   },
   "846": {
    "path": "gacha/846/pu.png",
    "cards": 3,
    "total": 3,
    "kind": "ceil",
-   "style": "deck_image/3",
-   "updated": 1788432943737
+   "style": "deck_image/4",
+   "updated": 1788434925052
   },
   "848": {
    "path": "gacha/848/pu.png",
    "cards": 5,
    "total": 4,
    "kind": "pu",
-   "style": "deck_image/3",
-   "updated": 1788432943940
+   "style": "deck_image/4",
+   "updated": 1788434925645
   }
  },
  "gacha_pool": {
