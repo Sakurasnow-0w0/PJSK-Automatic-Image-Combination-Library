@@ -1,5 +1,5 @@
 {
- "updated": 1788429736933,
+ "updated": 1788431191555,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -619,7 +619,7 @@
    "base_n": 313,
    "base_th": 27,
    "style": "pool/5",
-   "at": 1788423107944
+   "at": 1788431191380
   },
   "818": {
    "path": "gacha/818/pool.jpg",
