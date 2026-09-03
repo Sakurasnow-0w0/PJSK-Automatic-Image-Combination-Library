@@ -1,5 +1,5 @@
 {
- "updated": 1788401253386,
+ "updated": 1788402525328,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -13,9 +13,9 @@
    "path": "gacha/772/pu.png",
    "cards": 4,
    "total": 1,
-   "kind": "pu",
+   "kind": "ceil",
    "style": "deck_image/1",
-   "updated": 1788296265527
+   "updated": 1788402508357
   },
   "778": {
    "path": "gacha/778/pu.png",
@@ -45,9 +45,9 @@
    "path": "gacha/783/pu.png",
    "cards": 4,
    "total": 1,
-   "kind": "pu",
+   "kind": "ceil",
    "style": "deck_image/1",
-   "updated": 1788296303561
+   "updated": 1788402525251
   },
   "787": {
    "path": "gacha/787/pu.png",
