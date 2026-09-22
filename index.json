@@ -1,5 +1,5 @@
 {
- "updated": 1790051742574,
+ "updated": 1790072465300,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -336,6 +336,14 @@
    "kind": "ceil",
    "style": "deck_image/5",
    "updated": 1790050880287
+  },
+  "862": {
+   "path": "gacha/862/pu.png",
+   "cards": 5,
+   "total": 5,
+   "kind": "ceil",
+   "style": "deck_image/5",
+   "updated": 1790072464365
   }
  },
  "gacha_pool": {
