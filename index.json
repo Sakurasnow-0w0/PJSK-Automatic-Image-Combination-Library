@@ -1,5 +1,5 @@
 {
- "updated": 1790072663899,
+ "updated": 1790137530169,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -5667,73 +5667,73 @@
  "char_card_page": {
   "1": {
    "cfg": "c854fcf2",
-   "at": 1790051689625,
+   "at": 1790137508148,
    "n": 21,
-   "now": 2,
-   "future": 19,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/1/safe.jpg?v=1790051689625",
-    "h": "3f590876c793",
+    "path": "charpage/1/safe.jpg?v=1790137508148",
+    "h": "91a592a4ec0f",
     "n": 15
    },
    "full": {
-    "path": "charpage/1/full.jpg?v=1790051689625",
-    "h": "bc691032c982",
+    "path": "charpage/1/full.jpg?v=1790137508148",
+    "h": "987309c13edd",
     "n": 21
    }
   },
   "2": {
    "cfg": "c854fcf2",
-   "at": 1790072636377,
+   "at": 1790137512558,
    "n": 20,
-   "now": 2,
-   "future": 18,
+   "now": 0,
+   "future": 20,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/2/safe.jpg?v=1790051692617",
-    "h": "b5866572db8f",
+    "path": "charpage/2/safe.jpg?v=1790137512558",
+    "h": "ee4623ecf685",
     "n": 14
    },
    "full": {
-    "path": "charpage/2/full.jpg?v=1790072636377",
-    "h": "8667878794ae",
+    "path": "charpage/2/full.jpg?v=1790137512558",
+    "h": "33a0e6595bc2",
     "n": 20
    }
   },
   "3": {
    "cfg": "c854fcf2",
-   "at": 1790072637451,
+   "at": 1790137516996,
    "n": 20,
-   "now": 2,
-   "future": 18,
+   "now": 0,
+   "future": 20,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/3/safe.jpg?v=1790051694638",
-    "h": "2c80549970c9",
+    "path": "charpage/3/safe.jpg?v=1790137516996",
+    "h": "56c2b5736407",
     "n": 15
    },
    "full": {
-    "path": "charpage/3/full.jpg?v=1790072637451",
-    "h": "a025710b08af",
+    "path": "charpage/3/full.jpg?v=1790137516996",
+    "h": "a5c44012c2a8",
     "n": 20
    }
   },
   "4": {
    "cfg": "c854fcf2",
-   "at": 1790051697160,
+   "at": 1790137522502,
    "n": 21,
-   "now": 2,
-   "future": 19,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/4/safe.jpg?v=1790051697160",
-    "h": "3a29c1abb301",
+    "path": "charpage/4/safe.jpg?v=1790137522502",
+    "h": "17f88db38bde",
     "n": 15
    },
    "full": {
-    "path": "charpage/4/full.jpg?v=1790051697160",
-    "h": "eb7b194afc61",
+    "path": "charpage/4/full.jpg?v=1790137522502",
+    "h": "49f3d6b3bf98",
     "n": 21
    }
   },
