@@ -1,5 +1,5 @@
 {
- "updated": 1790223691045,
+ "updated": 1790266893077,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -5685,15 +5685,15 @@
   },
   "2": {
    "cfg": "c854fcf2",
-   "at": 1790137512558,
+   "at": 1790266885819,
    "n": 20,
    "now": 0,
    "future": 20,
-   "spoiler": 6,
+   "spoiler": 5,
    "safe": {
-    "path": "charpage/2/safe.jpg?v=1790137512558",
-    "h": "ee4623ecf685",
-    "n": 14
+    "path": "charpage/2/safe.jpg?v=1790266885819",
+    "h": "d53a7870b629",
+    "n": 15
    },
    "full": {
     "path": "charpage/2/full.jpg?v=1790137512558",
@@ -5739,15 +5739,15 @@
   },
   "5": {
    "cfg": "c854fcf2",
-   "at": 1790223682946,
+   "at": 1790266886724,
    "n": 21,
    "now": 0,
    "future": 21,
-   "spoiler": 7,
+   "spoiler": 6,
    "safe": {
-    "path": "charpage/5/safe.jpg?v=1790223682946",
-    "h": "46a7dbf7fea3",
-    "n": 14
+    "path": "charpage/5/safe.jpg?v=1790266886724",
+    "h": "ec5738e0fd26",
+    "n": 15
    },
    "full": {
     "path": "charpage/5/full.jpg?v=1790223682946",
@@ -5757,15 +5757,15 @@
   },
   "6": {
    "cfg": "c854fcf2",
-   "at": 1790223684426,
+   "at": 1790266887491,
    "n": 21,
    "now": 0,
    "future": 21,
-   "spoiler": 6,
+   "spoiler": 4,
    "safe": {
-    "path": "charpage/6/safe.jpg?v=1790223684426",
-    "h": "a851cde2fc7c",
-    "n": 15
+    "path": "charpage/6/safe.jpg?v=1790266887491",
+    "h": "ed4c0e629c72",
+    "n": 17
    },
    "full": {
     "path": "charpage/6/full.jpg?v=1790223684426",
@@ -5829,15 +5829,15 @@
   },
   "10": {
    "cfg": "c854fcf2",
-   "at": 1790051703391,
+   "at": 1790266889622,
    "n": 22,
    "now": 0,
    "future": 22,
-   "spoiler": 7,
+   "spoiler": 6,
    "safe": {
-    "path": "charpage/10/safe.jpg?v=1790051703391",
-    "h": "5d094becd39d",
-    "n": 15
+    "path": "charpage/10/safe.jpg?v=1790266889622",
+    "h": "04bcdf7d25be",
+    "n": 16
    },
    "full": {
     "path": "charpage/10/full.jpg?v=1790051703391",
@@ -5847,15 +5847,15 @@
   },
   "11": {
    "cfg": "c854fcf2",
-   "at": 1790072643848,
+   "at": 1790266890497,
    "n": 24,
    "now": 0,
    "future": 24,
-   "spoiler": 8,
+   "spoiler": 7,
    "safe": {
-    "path": "charpage/11/safe.jpg?v=1790051706289",
-    "h": "f52f0ceacb3b",
-    "n": 16
+    "path": "charpage/11/safe.jpg?v=1790266890497",
+    "h": "73653852b545",
+    "n": 17
    },
    "full": {
     "path": "charpage/11/full.jpg?v=1790072643848",
@@ -6009,15 +6009,15 @@
   },
   "20": {
    "cfg": "c854fcf2",
-   "at": 1790072651801,
+   "at": 1790266891856,
    "n": 20,
    "now": 0,
    "future": 20,
-   "spoiler": 6,
+   "spoiler": 5,
    "safe": {
-    "path": "charpage/20/safe.jpg?v=1790051729946",
-    "h": "338bda55eeb1",
-    "n": 14
+    "path": "charpage/20/safe.jpg?v=1790266891856",
+    "h": "e472d06c5fec",
+    "n": 15
    },
    "full": {
     "path": "charpage/20/full.jpg?v=1790072651801",
