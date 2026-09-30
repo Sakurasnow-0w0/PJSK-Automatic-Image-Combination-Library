@@ -1,5 +1,5 @@
 {
- "updated": 1790785288394,
+ "updated": 1790785336358,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -5934,19 +5934,19 @@
   },
   "6": {
    "cfg": "c854fcf2",
-   "at": 1790742079323,
+   "at": 1790785333178,
    "n": 22,
-   "now": 8,
-   "future": 14,
+   "now": 13,
+   "future": 9,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/6/safe.jpg?v=1790742079323",
-    "h": "a2cebf8cdc0f",
+    "path": "charpage/6/safe.jpg?v=1790785333178",
+    "h": "55c458bdb423",
     "n": 17
    },
    "full": {
-    "path": "charpage/6/full.jpg?v=1790742079323",
-    "h": "fe136305610c",
+    "path": "charpage/6/full.jpg?v=1790785333178",
+    "h": "25b9cb5279c8",
     "n": 22
    }
   },
