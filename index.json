@@ -1,5 +1,5 @@
 {
- "updated": 1791708858542,
+ "updated": 1791708948750,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -5871,469 +5871,469 @@
  "char_card_page": {
   "1": {
    "cfg": "c854fcf2",
-   "at": 1791087694272,
+   "at": 1791708894856,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 3,
+   "future": 18,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/1/safe.jpg?v=1791087694272",
-    "h": "f9115d5d54f2",
+    "path": "charpage/1/safe.jpg?v=1791708894856",
+    "h": "5e76268136a5",
     "n": 16
    },
    "full": {
-    "path": "charpage/1/full.jpg?v=1791087694272",
-    "h": "73dad15a0544",
+    "path": "charpage/1/full.jpg?v=1791708894856",
+    "h": "ec3568d4c2de",
     "n": 21
    }
   },
   "2": {
    "cfg": "c854fcf2",
-   "at": 1791087695957,
-   "n": 21,
-   "now": 5,
-   "future": 16,
+   "at": 1791708896501,
+   "n": 20,
+   "now": 2,
+   "future": 18,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/2/safe.jpg?v=1791087695957",
-    "h": "bbd4988b97bf",
-    "n": 15
+    "path": "charpage/2/safe.jpg?v=1791708896501",
+    "h": "ab113864d9e0",
+    "n": 14
    },
    "full": {
-    "path": "charpage/2/full.jpg?v=1791087695957",
-    "h": "9ec214796ad2",
-    "n": 21
+    "path": "charpage/2/full.jpg?v=1791708896501",
+    "h": "b89619e9813f",
+    "n": 20
    }
   },
   "3": {
    "cfg": "c854fcf2",
-   "at": 1791087697595,
+   "at": 1791708898278,
    "n": 20,
-   "now": 4,
-   "future": 16,
-   "spoiler": 4,
+   "now": 3,
+   "future": 17,
+   "spoiler": 3,
    "safe": {
-    "path": "charpage/3/safe.jpg?v=1791087697595",
-    "h": "5b41b3a6cc17",
-    "n": 16
+    "path": "charpage/3/safe.jpg?v=1791708898278",
+    "h": "dcaf2b1b7a7f",
+    "n": 17
    },
    "full": {
-    "path": "charpage/3/full.jpg?v=1791087697595",
-    "h": "8a55553320dd",
+    "path": "charpage/3/full.jpg?v=1791708898278",
+    "h": "1ceb55e1e9cb",
     "n": 20
    }
   },
   "4": {
    "cfg": "c854fcf2",
-   "at": 1791087699223,
+   "at": 1791708900029,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 3,
+   "future": 18,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/4/safe.jpg?v=1791087699223",
-    "h": "da4001c64b47",
+    "path": "charpage/4/safe.jpg?v=1791708900029",
+    "h": "184795473d8d",
     "n": 16
    },
    "full": {
-    "path": "charpage/4/full.jpg?v=1791087699223",
-    "h": "4b9dc9e78628",
+    "path": "charpage/4/full.jpg?v=1791708900029",
+    "h": "1ec5415ace86",
     "n": 21
    }
   },
   "5": {
    "cfg": "c854fcf2",
-   "at": 1791087700874,
+   "at": 1791708901968,
    "n": 21,
-   "now": 6,
-   "future": 15,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/5/safe.jpg?v=1791087700874",
-    "h": "f2b12f59323c",
+    "path": "charpage/5/safe.jpg?v=1791708901968",
+    "h": "e2b1c5ed0e60",
     "n": 15
    },
    "full": {
-    "path": "charpage/5/full.jpg?v=1791087700874",
-    "h": "40115dbfd063",
+    "path": "charpage/5/full.jpg?v=1791708901968",
+    "h": "2e8bd207425e",
     "n": 21
    }
   },
   "6": {
    "cfg": "c854fcf2",
-   "at": 1791390092733,
-   "n": 22,
-   "now": 6,
-   "future": 16,
+   "at": 1791708903860,
+   "n": 21,
+   "now": 0,
+   "future": 21,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/6/safe.jpg?v=1791390092733",
-    "h": "6765365aa6d3",
-    "n": 17
+    "path": "charpage/6/safe.jpg?v=1791708903860",
+    "h": "b8d6f3c479fa",
+    "n": 16
    },
    "full": {
-    "path": "charpage/6/full.jpg?v=1791390092733",
-    "h": "226a0b700071",
-    "n": 22
+    "path": "charpage/6/full.jpg?v=1791708903860",
+    "h": "018e488e7a09",
+    "n": 21
    }
   },
   "7": {
    "cfg": "c854fcf2",
-   "at": 1791087704237,
+   "at": 1791708905705,
    "n": 22,
-   "now": 4,
-   "future": 18,
-   "spoiler": 7,
+   "now": 0,
+   "future": 22,
+   "spoiler": 6,
    "safe": {
-    "path": "charpage/7/safe.jpg?v=1791087704237",
-    "h": "5d1f6632fb6d",
-    "n": 15
+    "path": "charpage/7/safe.jpg?v=1791708905705",
+    "h": "c985e739e098",
+    "n": 16
    },
    "full": {
-    "path": "charpage/7/full.jpg?v=1791087704237",
-    "h": "13670353b5b2",
+    "path": "charpage/7/full.jpg?v=1791708905705",
+    "h": "70c71445122f",
     "n": 22
    }
   },
   "8": {
    "cfg": "c854fcf2",
-   "at": 1791087706827,
+   "at": 1791708908485,
    "n": 22,
-   "now": 5,
-   "future": 17,
-   "spoiler": 7,
+   "now": 0,
+   "future": 22,
+   "spoiler": 6,
    "safe": {
-    "path": "charpage/8/safe.jpg?v=1791087706827",
-    "h": "ce397f2262d6",
-    "n": 15
+    "path": "charpage/8/safe.jpg?v=1791708908485",
+    "h": "03c96798c1a2",
+    "n": 16
    },
    "full": {
-    "path": "charpage/8/full.jpg?v=1791087706827",
-    "h": "109296202aff",
+    "path": "charpage/8/full.jpg?v=1791708908485",
+    "h": "2edc7c4b8849",
     "n": 22
    }
   },
   "9": {
    "cfg": "c854fcf2",
-   "at": 1791087708460,
+   "at": 1791708910355,
    "n": 22,
-   "now": 5,
-   "future": 17,
+   "now": 0,
+   "future": 22,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/9/safe.jpg?v=1791087708460",
-    "h": "392b5e8ab036",
+    "path": "charpage/9/safe.jpg?v=1791708910355",
+    "h": "aa4c885b3a4d",
     "n": 15
    },
    "full": {
-    "path": "charpage/9/full.jpg?v=1791087708460",
-    "h": "023ca93e6300",
+    "path": "charpage/9/full.jpg?v=1791708910355",
+    "h": "4ee12a45f5c6",
     "n": 22
    }
   },
   "10": {
    "cfg": "c854fcf2",
-   "at": 1791087710997,
-   "n": 22,
-   "now": 6,
-   "future": 16,
+   "at": 1791708913023,
+   "n": 21,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/10/safe.jpg?v=1791087710997",
-    "h": "3246d0217f6c",
-    "n": 16
+    "path": "charpage/10/safe.jpg?v=1791708913023",
+    "h": "2ff2bfe28b97",
+    "n": 15
    },
    "full": {
-    "path": "charpage/10/full.jpg?v=1791087710997",
-    "h": "d1b392d41007",
-    "n": 22
+    "path": "charpage/10/full.jpg?v=1791708913023",
+    "h": "68ff1f99454c",
+    "n": 21
    }
   },
   "11": {
    "cfg": "c854fcf2",
-   "at": 1791087712734,
+   "at": 1791708914728,
    "n": 24,
-   "now": 5,
-   "future": 19,
+   "now": 0,
+   "future": 24,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/11/safe.jpg?v=1791087712734",
-    "h": "1cee36bcb4a1",
+    "path": "charpage/11/safe.jpg?v=1791708914728",
+    "h": "af1939394063",
     "n": 17
    },
    "full": {
-    "path": "charpage/11/full.jpg?v=1791087712734",
-    "h": "e4a48b91ef7c",
+    "path": "charpage/11/full.jpg?v=1791708914728",
+    "h": "4eb57f24b2ee",
     "n": 24
    }
   },
   "12": {
    "cfg": "c854fcf2",
-   "at": 1791087714498,
+   "at": 1791708916707,
    "n": 23,
-   "now": 4,
-   "future": 19,
+   "now": 0,
+   "future": 23,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/12/safe.jpg?v=1791087714498",
-    "h": "c8822d965408",
+    "path": "charpage/12/safe.jpg?v=1791708916707",
+    "h": "cff763ad772e",
     "n": 16
    },
    "full": {
-    "path": "charpage/12/full.jpg?v=1791087714498",
-    "h": "93ab4ba755de",
+    "path": "charpage/12/full.jpg?v=1791708916707",
+    "h": "5b4d3ae2e0ec",
     "n": 23
    }
   },
   "13": {
    "cfg": "c854fcf2",
-   "at": 1791087717394,
+   "at": 1791708919404,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 0,
+   "future": 21,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/13/safe.jpg?v=1791087717394",
-    "h": "eab53f46385e",
+    "path": "charpage/13/safe.jpg?v=1791708919404",
+    "h": "a0bb7d031b29",
     "n": 16
    },
    "full": {
-    "path": "charpage/13/full.jpg?v=1791087717394",
-    "h": "ef2ddc112dbd",
+    "path": "charpage/13/full.jpg?v=1791708919404",
+    "h": "831c17be2940",
     "n": 21
    }
   },
   "14": {
    "cfg": "c854fcf2",
-   "at": 1791087719039,
+   "at": 1791708921193,
    "n": 22,
-   "now": 4,
-   "future": 18,
+   "now": 0,
+   "future": 22,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/14/safe.jpg?v=1791087719039",
-    "h": "4a14ff989028",
+    "path": "charpage/14/safe.jpg?v=1791708921193",
+    "h": "e27599cb9d85",
     "n": 15
    },
    "full": {
-    "path": "charpage/14/full.jpg?v=1791087719039",
-    "h": "1eb174bfab4c",
+    "path": "charpage/14/full.jpg?v=1791708921193",
+    "h": "9c8121450c62",
     "n": 22
    }
   },
   "15": {
    "cfg": "c854fcf2",
-   "at": 1791087720679,
+   "at": 1791708922931,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/15/safe.jpg?v=1791087720679",
-    "h": "3d658dcabdf9",
+    "path": "charpage/15/safe.jpg?v=1791708922931",
+    "h": "d947e11758e0",
     "n": 15
    },
    "full": {
-    "path": "charpage/15/full.jpg?v=1791087720679",
-    "h": "f76f8f8a52a1",
+    "path": "charpage/15/full.jpg?v=1791708922931",
+    "h": "86b132bf9053",
     "n": 21
    }
   },
   "16": {
    "cfg": "c854fcf2",
-   "at": 1791087722312,
+   "at": 1791708924633,
    "n": 22,
-   "now": 4,
-   "future": 18,
+   "now": 0,
+   "future": 22,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/16/safe.jpg?v=1791087722312",
-    "h": "6c5d94904cd9",
+    "path": "charpage/16/safe.jpg?v=1791708924633",
+    "h": "eae2e94d2cfe",
     "n": 16
    },
    "full": {
-    "path": "charpage/16/full.jpg?v=1791087722312",
-    "h": "21f4429a4c85",
+    "path": "charpage/16/full.jpg?v=1791708924633",
+    "h": "7b3b81944e35",
     "n": 22
    }
   },
   "17": {
    "cfg": "c854fcf2",
-   "at": 1791087724901,
+   "at": 1791708927855,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 0,
+   "future": 21,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/17/safe.jpg?v=1791087724901",
-    "h": "b0a6f2187700",
+    "path": "charpage/17/safe.jpg?v=1791708927855",
+    "h": "d6795c3d5413",
     "n": 15
    },
    "full": {
-    "path": "charpage/17/full.jpg?v=1791087724901",
-    "h": "71b12f71e4a1",
+    "path": "charpage/17/full.jpg?v=1791708927855",
+    "h": "d12cbae02781",
     "n": 21
    }
   },
   "18": {
    "cfg": "c854fcf2",
-   "at": 1791087726473,
+   "at": 1791708929464,
    "n": 20,
-   "now": 4,
-   "future": 16,
+   "now": 0,
+   "future": 20,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/18/safe.jpg?v=1791087726473",
-    "h": "8fa7e1311d51",
+    "path": "charpage/18/safe.jpg?v=1791708929464",
+    "h": "d8fad2de42cb",
     "n": 15
    },
    "full": {
-    "path": "charpage/18/full.jpg?v=1791087726473",
-    "h": "fe1dbf310bf2",
+    "path": "charpage/18/full.jpg?v=1791708929464",
+    "h": "3bf2274f2577",
     "n": 20
    }
   },
   "19": {
    "cfg": "c854fcf2",
-   "at": 1791087728051,
+   "at": 1791708931212,
    "n": 21,
-   "now": 4,
-   "future": 17,
+   "now": 0,
+   "future": 21,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/19/safe.jpg?v=1791087728051",
-    "h": "98e43fe760dc",
+    "path": "charpage/19/safe.jpg?v=1791708931212",
+    "h": "49d33b1146ff",
     "n": 14
    },
    "full": {
-    "path": "charpage/19/full.jpg?v=1791087728051",
-    "h": "21123efbfae4",
+    "path": "charpage/19/full.jpg?v=1791708931212",
+    "h": "0c3c6e6a0877",
     "n": 21
    }
   },
   "20": {
    "cfg": "c854fcf2",
-   "at": 1791087729624,
-   "n": 20,
-   "now": 6,
-   "future": 14,
+   "at": 1791708932945,
+   "n": 19,
+   "now": 0,
+   "future": 19,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/20/safe.jpg?v=1791087729624",
-    "h": "ee42bc637523",
-    "n": 15
+    "path": "charpage/20/safe.jpg?v=1791708932945",
+    "h": "58b243615569",
+    "n": 14
    },
    "full": {
-    "path": "charpage/20/full.jpg?v=1791087729624",
-    "h": "cf6b49524f30",
-    "n": 20
+    "path": "charpage/20/full.jpg?v=1791708932945",
+    "h": "ffb0d1a07cdb",
+    "n": 19
    }
   },
   "21": {
    "cfg": "c854fcf2",
-   "at": 1791087731201,
+   "at": 1791708934742,
    "n": 20,
-   "now": 5,
-   "future": 15,
+   "now": 0,
+   "future": 20,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/21/safe.jpg?v=1791087731201",
-    "h": "df0efc18895f",
+    "path": "charpage/21/safe.jpg?v=1791708934742",
+    "h": "5c30357369ce",
     "n": 15
    },
    "full": {
-    "path": "charpage/21/full.jpg?v=1791087731201",
-    "h": "63bbb759e9af",
+    "path": "charpage/21/full.jpg?v=1791708934742",
+    "h": "c32d2bfc8e33",
     "n": 20
    }
   },
   "22": {
    "cfg": "c854fcf2",
-   "at": 1791087732784,
+   "at": 1791708936606,
    "n": 21,
-   "now": 5,
-   "future": 16,
+   "now": 0,
+   "future": 21,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/22/safe.jpg?v=1791087732784",
-    "h": "bd551b16e4bd",
+    "path": "charpage/22/safe.jpg?v=1791708936606",
+    "h": "b956826a46ac",
     "n": 14
    },
    "full": {
-    "path": "charpage/22/full.jpg?v=1791087732784",
-    "h": "c105cd12583f",
+    "path": "charpage/22/full.jpg?v=1791708936606",
+    "h": "41e53bda225f",
     "n": 21
    }
   },
   "23": {
    "cfg": "c854fcf2",
-   "at": 1791087734389,
+   "at": 1791708938478,
    "n": 20,
-   "now": 5,
-   "future": 15,
+   "now": 0,
+   "future": 20,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/23/safe.jpg?v=1791087734389",
-    "h": "b56288db596e",
+    "path": "charpage/23/safe.jpg?v=1791708938478",
+    "h": "9cd15fc22597",
     "n": 14
    },
    "full": {
-    "path": "charpage/23/full.jpg?v=1791087734389",
-    "h": "742477d1a009",
+    "path": "charpage/23/full.jpg?v=1791708938478",
+    "h": "1054a0d83f07",
     "n": 20
    }
   },
   "24": {
    "cfg": "c854fcf2",
-   "at": 1791087735917,
+   "at": 1791708940159,
    "n": 22,
-   "now": 6,
-   "future": 16,
+   "now": 0,
+   "future": 22,
    "spoiler": 7,
    "safe": {
-    "path": "charpage/24/safe.jpg?v=1791087735917",
-    "h": "9ae5efb42fa5",
+    "path": "charpage/24/safe.jpg?v=1791708940159",
+    "h": "6b40a85a6018",
     "n": 15
    },
    "full": {
-    "path": "charpage/24/full.jpg?v=1791087735917",
-    "h": "1fca63d3abb0",
+    "path": "charpage/24/full.jpg?v=1791708940159",
+    "h": "022dffe1e95d",
     "n": 22
    }
   },
   "25": {
    "cfg": "c854fcf2",
-   "at": 1791087738759,
+   "at": 1791708942933,
    "n": 21,
-   "now": 5,
-   "future": 16,
-   "spoiler": 7,
+   "now": 0,
+   "future": 21,
+   "spoiler": 6,
    "safe": {
-    "path": "charpage/25/safe.jpg?v=1791087738759",
-    "h": "539535da30b0",
-    "n": 14
+    "path": "charpage/25/safe.jpg?v=1791708942933",
+    "h": "416608c7eee4",
+    "n": 15
    },
    "full": {
-    "path": "charpage/25/full.jpg?v=1791087738759",
-    "h": "d467f895bb19",
+    "path": "charpage/25/full.jpg?v=1791708942933",
+    "h": "e6ec8d93dbbb",
     "n": 21
    }
   },
   "26": {
    "cfg": "c854fcf2",
-   "at": 1791087740395,
+   "at": 1791708944642,
    "n": 20,
-   "now": 5,
-   "future": 15,
+   "now": 0,
+   "future": 20,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/26/safe.jpg?v=1791087740395",
-    "h": "c3067686d914",
+    "path": "charpage/26/safe.jpg?v=1791708944642",
+    "h": "0a083c7f4b76",
     "n": 14
    },
    "full": {
-    "path": "charpage/26/full.jpg?v=1791087740395",
-    "h": "a548c418e20f",
+    "path": "charpage/26/full.jpg?v=1791708944642",
+    "h": "684054c6a8f6",
     "n": 20
    }
   }
