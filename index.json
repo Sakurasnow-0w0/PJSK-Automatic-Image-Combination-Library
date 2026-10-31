@@ -1,5 +1,5 @@
 {
- "updated": 1793377288524,
+ "updated": 1793420523931,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -1597,51 +1597,11 @@
   },
   "3": {
    "cfg": "3f4d51e5",
-   "at": 1792556484058,
+   "at": 1793290885374,
    "n": 21,
    "now": 0,
    "future": 21,
    "cards": [
-    {
-     "id": 306,
-     "name": "Happy Birthday!!",
-     "avail": "未來",
-     "supply": "生日",
-     "h": "81c9a04bb253",
-     "path": "charcard/3/306.png?v=1788587152583"
-    },
-    {
-     "id": 527,
-     "name": "Happy Birthday!!2023",
-     "avail": "未來",
-     "supply": "生日",
-     "h": "867c7f2c330a",
-     "path": "charcard/3/527.png?v=1788587152583"
-    },
-    {
-     "id": 778,
-     "name": "Happy Birthday!!2024",
-     "avail": "未來",
-     "supply": "生日",
-     "h": "f072b64afa80",
-     "path": "charcard/3/778.png?v=1788587152583"
-    },
-    {
-     "id": 1021,
-     "name": "Happy Birthday!!2025",
-     "avail": "未來",
-     "supply": "生日",
-     "h": "c000419d89bb",
-     "path": "charcard/3/1021.png?v=1788587152583"
-    },
-    {
-     "id": 1271,
-     "name": "Happy Birthday!! 2026",
-     "avail": "未來",
-     "supply": "生日",
-     "h": "9cf5f61d5e4f",
-     "path": "charcard/3/1271.png?v=1788587152583"
-    },
     {
      "id": 963,
      "name": "道不出口的話語",
@@ -1753,6 +1713,46 @@
      "supply": "常駐",
      "h": "b65a4d9f676e",
      "path": "charcard/3/1483.png?v=1791778877760"
+    },
+    {
+     "id": 306,
+     "name": "Happy Birthday!!",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "81c9a04bb253",
+     "path": "charcard/3/306.png?v=1788587152583"
+    },
+    {
+     "id": 527,
+     "name": "Happy Birthday!!2023",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "867c7f2c330a",
+     "path": "charcard/3/527.png?v=1788587152583"
+    },
+    {
+     "id": 778,
+     "name": "Happy Birthday!!2024",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "f072b64afa80",
+     "path": "charcard/3/778.png?v=1788587152583"
+    },
+    {
+     "id": 1021,
+     "name": "Happy Birthday!!2025",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "c000419d89bb",
+     "path": "charcard/3/1021.png?v=1788587152583"
+    },
+    {
+     "id": 1271,
+     "name": "Happy Birthday!! 2026",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "9cf5f61d5e4f",
+     "path": "charcard/3/1271.png?v=1788587152583"
     },
     {
      "id": 1488,
@@ -2305,15 +2305,15 @@
   },
   "7": {
    "cfg": "3f4d51e5",
-   "at": 1792556484484,
-   "n": 22,
-   "now": 3,
-   "future": 19,
+   "at": 1793420512024,
+   "n": 21,
+   "now": 0,
+   "future": 21,
    "cards": [
     {
      "id": 923,
      "name": "日常生活的一頁",
-     "avail": "現在抽得到",
+     "avail": "未來",
      "supply": "團體活動限定",
      "h": "b8e0d3fdfe95",
      "path": "charcard/7/923.png?v=1788587175926"
@@ -2321,18 +2321,10 @@
     {
      "id": 1220,
      "name": "特別合作直播！",
-     "avail": "現在抽得到",
+     "avail": "未來",
      "supply": "團體活動限定",
      "h": "3681d135bd04",
      "path": "charcard/7/1220.png?v=1788587175926"
-    },
-    {
-     "id": 1267,
-     "name": "冷汗直流的整人計畫！",
-     "avail": "現在抽得到",
-     "supply": "常駐",
-     "h": "04faf9d6e994",
-     "path": "charcard/7/1267.png?v=1788587175926"
     },
     {
      "id": 1301,
@@ -2490,35 +2482,11 @@
   },
   "8": {
    "cfg": "3f4d51e5",
-   "at": 1791708888745,
-   "n": 22,
+   "at": 1793420512217,
+   "n": 21,
    "now": 0,
-   "future": 22,
+   "future": 21,
    "cards": [
-    {
-     "id": 924,
-     "name": "指尖追尋之物",
-     "avail": "未來",
-     "supply": "團體活動限定",
-     "h": "eb8dad3c9028",
-     "path": "charcard/8/924.png?v=1788587181465"
-    },
-    {
-     "id": 1221,
-     "name": "完美的微笑",
-     "avail": "未來",
-     "supply": "團體活動限定",
-     "h": "21cc14f3d7dc",
-     "path": "charcard/8/1221.png?v=1788587181465"
-    },
-    {
-     "id": 1266,
-     "name": "與某日重疊的景色",
-     "avail": "未來",
-     "supply": "常駐",
-     "h": "e4c22dfd624d",
-     "path": "charcard/8/1266.png?v=1788587181465"
-    },
     {
      "id": 329,
      "name": "Happy Birthday!!",
@@ -2558,6 +2526,22 @@
      "supply": "生日",
      "h": "e9113d1d008a",
      "path": "charcard/8/1294.png?v=1790051358286"
+    },
+    {
+     "id": 924,
+     "name": "指尖追尋之物",
+     "avail": "未來",
+     "supply": "團體活動限定",
+     "h": "eb8dad3c9028",
+     "path": "charcard/8/924.png?v=1788587181465"
+    },
+    {
+     "id": 1221,
+     "name": "完美的微笑",
+     "avail": "未來",
+     "supply": "團體活動限定",
+     "h": "21cc14f3d7dc",
+     "path": "charcard/8/1221.png?v=1788587181465"
     },
     {
      "id": 841,
@@ -4163,15 +4147,15 @@
   },
   "17": {
    "cfg": "3f4d51e5",
-   "at": 1792556485322,
-   "n": 21,
-   "now": 0,
-   "future": 21,
+   "at": 1793420515440,
+   "n": 22,
+   "now": 3,
+   "future": 19,
    "cards": [
     {
      "id": 785,
      "name": "將心願堆疊在她身上",
-     "avail": "未來",
+     "avail": "現在抽得到",
      "supply": "團體活動限定",
      "h": "997dc1daa650",
      "path": "charcard/17/785.png?v=1788587223106"
@@ -4179,7 +4163,7 @@
     {
      "id": 1185,
      "name": "休息時間的片刻",
-     "avail": "未來",
+     "avail": "現在抽得到",
      "supply": "團體活動限定",
      "h": "809f1a1b28f0",
      "path": "charcard/17/1185.png?v=1788587223106"
@@ -4187,7 +4171,7 @@
     {
      "id": 1273,
      "name": "獨特的視角",
-     "avail": "未來",
+     "avail": "現在抽得到",
      "supply": "期間限定",
      "h": "50977302b1ef",
      "path": "charcard/17/1273.png?v=1790051394529"
@@ -4321,6 +4305,14 @@
      "path": "charcard/17/1163.png?v=1788591282507"
     },
     {
+     "id": 1489,
+     "name": "暗闇の果てに",
+     "avail": "未來",
+     "supply": "常駐",
+     "h": "8143662f252f",
+     "path": "charcard/17/1489.png?v=1793420515440"
+    },
+    {
      "id": 819,
      "name": "feat. 毛毯熊莫普",
      "avail": "未來",
@@ -4340,15 +4332,15 @@
   },
   "18": {
    "cfg": "3f4d51e5",
-   "at": 1792556485495,
-   "n": 20,
-   "now": 0,
-   "future": 20,
+   "at": 1793420518130,
+   "n": 21,
+   "now": 2,
+   "future": 19,
    "cards": [
     {
      "id": 786,
      "name": "拾起的「心」",
-     "avail": "未來",
+     "avail": "現在抽得到",
      "supply": "團體活動限定",
      "h": "919e3c3f540c",
      "path": "charcard/18/786.png?v=1788587227707"
@@ -4356,7 +4348,7 @@
     {
      "id": 1186,
      "name": "相視而笑",
-     "avail": "未來",
+     "avail": "現在抽得到",
      "supply": "團體活動限定",
      "h": "ce812badf351",
      "path": "charcard/18/1186.png?v=1788587227707"
@@ -4496,6 +4488,14 @@
      "supply": "常駐",
      "h": "620030c75066",
      "path": "charcard/18/1423.png?v=1790051396488"
+    },
+    {
+     "id": 1490,
+     "name": "ほんの少しの温もりを",
+     "avail": "未來",
+     "supply": "常駐",
+     "h": "ebfbf0ca9133",
+     "path": "charcard/18/1490.png?v=1793420518130"
     },
     {
      "id": 820,
@@ -5370,10 +5370,10 @@
   },
   "24": {
    "cfg": "3f4d51e5",
-   "at": 1792556486191,
-   "n": 22,
+   "at": 1793420521560,
+   "n": 23,
    "now": 0,
-   "future": 22,
+   "future": 23,
    "cards": [
     {
      "id": 337,
@@ -5544,6 +5544,14 @@
      "path": "charcard/24/1472.png?v=1790051412743"
     },
     {
+     "id": 1491,
+     "name": "鍵を壊すために",
+     "avail": "未來",
+     "supply": "常駐",
+     "h": "2a92aff83665",
+     "path": "charcard/24/1491.png?v=1793420521560"
+    },
+    {
      "id": 824,
      "name": "feat. 彼安諾",
      "avail": "未來",
@@ -5555,19 +5563,11 @@
   },
   "25": {
    "cfg": "3f4d51e5",
-   "at": 1792556486370,
+   "at": 1793420523793,
    "n": 22,
-   "now": 1,
-   "future": 21,
+   "now": 0,
+   "future": 22,
    "cards": [
-    {
-     "id": 1268,
-     "name": "送上獨一無二的聲援！",
-     "avail": "現在抽得到",
-     "supply": "常駐",
-     "h": "7cc2767583c0",
-     "path": "charcard/25/1268.png?v=1788587269743"
-    },
     {
      "id": 312,
      "name": "Happy Anniversary!!",
@@ -5719,6 +5719,14 @@
      "supply": "常駐",
      "h": "3f51678533a7",
      "path": "charcard/25/1485.png?v=1791778880572"
+    },
+    {
+     "id": 1494,
+     "name": "Happy Anniversary！！2026",
+     "avail": "未來",
+     "supply": "生日",
+     "h": "995aa1e012da",
+     "path": "charcard/25/1494.png?v=1793420523793"
     },
     {
      "id": 825,
