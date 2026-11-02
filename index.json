@@ -1,5 +1,5 @@
 {
- "updated": 1793636460759,
+ "updated": 1793636494973,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -1281,6 +1281,127 @@
    "base_th": 20,
    "style": "pool/7",
    "at": 1793463678406
+  },
+  "874": {
+   "path": "gacha/874/pool.jpg",
+   "n": 22,
+   "pu": 4,
+   "limited": 0,
+   "fresh": 0,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636470519
+  },
+  "876": {
+   "path": "gacha/876/pool.jpg",
+   "n": 20,
+   "pu": 4,
+   "limited": 0,
+   "fresh": 0,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636472306
+  },
+  "877": {
+   "path": "gacha/877/pool.jpg",
+   "n": 351,
+   "pu": 6,
+   "limited": 0,
+   "fresh": 5,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636475757
+  },
+  "878": {
+   "path": "gacha/878/pool.jpg",
+   "n": 351,
+   "pu": 6,
+   "limited": 0,
+   "fresh": 6,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636478140
+  },
+  "879": {
+   "path": "gacha/879/pool.jpg",
+   "n": 351,
+   "pu": 6,
+   "limited": 0,
+   "fresh": 5,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636480390
+  },
+  "880": {
+   "path": "gacha/880/pool.jpg",
+   "n": 413,
+   "pu": 5,
+   "limited": 39,
+   "fresh": 24,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636483255
+  },
+  "882": {
+   "path": "gacha/882/pool.jpg",
+   "n": 351,
+   "pu": 6,
+   "limited": 0,
+   "fresh": 5,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636485635
+  },
+  "883": {
+   "path": "gacha/883/pool.jpg",
+   "n": 351,
+   "pu": 10,
+   "limited": 0,
+   "fresh": 4,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636487914
+  },
+  "888": {
+   "path": "gacha/888/pool.jpg",
+   "n": 351,
+   "pu": 3,
+   "limited": 0,
+   "fresh": 6,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636490237
+  },
+  "889": {
+   "path": "gacha/889/pool.jpg",
+   "n": 351,
+   "pu": 3,
+   "limited": 0,
+   "fresh": 6,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636492561
+  },
+  "890": {
+   "path": "gacha/890/pool.jpg",
+   "n": 351,
+   "pu": 3,
+   "limited": 0,
+   "fresh": 6,
+   "base_n": 345,
+   "base_th": 24,
+   "style": "pool/7",
+   "at": 1793636494880
   },
   "995": {
    "path": "gacha/995/pool.jpg",
