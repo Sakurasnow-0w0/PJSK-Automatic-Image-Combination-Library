@@ -1,5 +1,5 @@
 {
- "updated": 1793463678517,
+ "updated": 1793636460759,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -392,6 +392,46 @@
    "kind": "ceil",
    "style": "deck_image/5",
    "updated": 1792686056460
+  },
+  "874": {
+   "path": "gacha/874/pu.png",
+   "cards": 5,
+   "total": 4,
+   "kind": "pu",
+   "style": "deck_image/5",
+   "updated": 1793636459288
+  },
+  "876": {
+   "path": "gacha/876/pu.png",
+   "cards": 5,
+   "total": 4,
+   "kind": "pu",
+   "style": "deck_image/5",
+   "updated": 1793636460022
+  },
+  "878": {
+   "path": "gacha/878/pu.png",
+   "cards": 6,
+   "total": 6,
+   "kind": "pu",
+   "style": "deck_image/5",
+   "updated": 1793636460279
+  },
+  "880": {
+   "path": "gacha/880/pu.png",
+   "cards": 5,
+   "total": 5,
+   "kind": "pu",
+   "style": "deck_image/5",
+   "updated": 1793636460470
+  },
+  "882": {
+   "path": "gacha/882/pu.png",
+   "cards": 6,
+   "total": 6,
+   "kind": "pu",
+   "style": "deck_image/5",
+   "updated": 1793636460667
   }
  },
  "gacha_pool": {
