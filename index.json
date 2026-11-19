@@ -1,5 +1,5 @@
 {
- "updated": 1794673304117,
+ "updated": 1795062104285,
  "gacha_pu": {
   "771": {
    "path": "gacha/771/pu.png",
@@ -6405,19 +6405,19 @@
   },
   "13": {
    "cfg": "c854fcf2",
-   "at": 1793636558851,
+   "at": 1795062099918,
    "n": 21,
-   "now": 0,
-   "future": 21,
+   "now": 2,
+   "future": 19,
    "spoiler": 5,
    "safe": {
-    "path": "charpage/13/safe.jpg?v=1793636558851",
-    "h": "d14b0bbe2210",
+    "path": "charpage/13/safe.jpg?v=1795062099918",
+    "h": "d6c8e42211cc",
     "n": 16
    },
    "full": {
-    "path": "charpage/13/full.jpg?v=1793636558851",
-    "h": "27891a7407fb",
+    "path": "charpage/13/full.jpg?v=1795062099918",
+    "h": "f54b8d46ce58",
     "n": 21
    }
   },
@@ -6459,19 +6459,19 @@
   },
   "16": {
    "cfg": "c854fcf2",
-   "at": 1793636563950,
+   "at": 1795062102048,
    "n": 22,
-   "now": 0,
-   "future": 22,
+   "now": 2,
+   "future": 20,
    "spoiler": 6,
    "safe": {
-    "path": "charpage/16/safe.jpg?v=1793636563950",
-    "h": "c98adee8ae03",
+    "path": "charpage/16/safe.jpg?v=1795062102048",
+    "h": "167dc89402f2",
     "n": 16
    },
    "full": {
-    "path": "charpage/16/full.jpg?v=1793636563950",
-    "h": "15b26f0b8cbe",
+    "path": "charpage/16/full.jpg?v=1795062102048",
+    "h": "c47aeaea254a",
     "n": 22
    }
   },
